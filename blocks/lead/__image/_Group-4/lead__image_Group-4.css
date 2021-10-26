@@ -1,0 +1,40 @@
+
+
+@media screen and (min-width: 320px) and (max-width: 768px) {
+    .lead__image_Group-4{
+        position: absolute;  
+        width: 95%;
+        margin: auto;
+        left: 7.5px;
+        top: 225.83px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .lead__image_Group-4{
+        position: absolute;  
+        width: 95%;
+        margin: auto;
+        left: 18px;
+        top: 460px;
+    }
+}
+@media screen and (min-width: 1024px) and (max-width: 1280px){
+    .lead__image_Group-4{
+        position: absolute;  
+        width: 95%;
+        margin: auto;
+        left: 22px;
+        top: 482px;
+    }
+}
+
+@media screen and (min-width: 1280px){
+    .lead__image_Group-4{
+        position: absolute;  
+        width: 95%;
+        margin: auto;
+        left: 23.27px;
+        top: 497px;
+    }
+}
