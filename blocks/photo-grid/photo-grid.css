@@ -19,11 +19,9 @@
         "item9"
         "item10" 
         "item11" 
-        "item12"
-        ;
+        "item12";
     }
 }
-
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .photo-grid{
         margin: 0 auto 88px;
@@ -38,8 +36,7 @@
         "item5 item6" 
         "item7 item8" 
         "item9 item10"
-         "item11 item12"
-        ;
+        "item11 item12";
     }
 }
 @media screen and (min-width: 1024px) and (max-width: 1280px){
@@ -54,11 +51,9 @@
         "item1 item2 item3"
         "item4 item5 item6"
         "item7 item8 item9"
-        "item10 item11 item12"
-        ;
+        "item10 item11 item12";
     }
 }
-
 @media screen and (min-width: 1280px){
     .photo-grid{
         margin: 0 auto 92px;
@@ -70,7 +65,6 @@
         grid-template-areas: 
         "item1 item2 item3 item4" 
         "item5 item6 item7 item8"
-        "item9 item10 item11 item12"
-        ;
+        "item9 item10 item11 item12";
     }
 }
