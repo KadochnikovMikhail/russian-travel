@@ -7,4 +7,6 @@
     font-size: 12px;
     line-height: 18px;
     color: #FFFFFF;
+    list-style-type: none;
+    padding: 0; 
 }
