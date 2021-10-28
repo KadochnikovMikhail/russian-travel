@@ -1,13 +1,16 @@
 
+
 @media screen and (min-width: 320px) and (max-width: 768px) {
-    .place__column2{
+    .place__top{
         display: flex;
         flex-direction: column;
     }
 }
 @media screen and (min-width: 768px) {
-    .place__column2{
+    .place__top{
         display: flex;
         flex-direction: row;
+        justify-content: space-between;
+        align-items: flex-end;
     }
 }
