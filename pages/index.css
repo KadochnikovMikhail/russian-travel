@@ -1,4 +1,4 @@
-
+@import url(../vendor/fonts.css);
 @import url(../vendor/normalize.css);
 
 @import url(../blocks/page/page.css);
@@ -11,7 +11,7 @@
 @import url(../blocks/lead/lead.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 @import url(../blocks/lead/__image/lead__image.css);
-@import url(../blocks/lead/__image/_Group-4/lead__image_Group-4.css);
+@import url(../blocks/lead/__image/_Group-four/lead__image_Group-four.css);
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__title/lead__title.css);
 

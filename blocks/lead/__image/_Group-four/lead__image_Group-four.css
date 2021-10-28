@@ -1,7 +1,7 @@
 
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
-    .lead__image_Group-4{
+    .lead__image_Group-four{
         position: absolute;
         width: 95%;
         margin: auto;
@@ -11,7 +11,7 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
-    .lead__image_Group-4{
+    .lead__image_Group-four{
         position: absolute;
         width: 95%;
         margin: auto;
@@ -20,7 +20,7 @@
     }
 }
 @media screen and (min-width: 1024px) and (max-width: 1280px){
-    .lead__image_Group-4{
+    .lead__image_Group-four{
         position: absolute;
         width: 95%;
         margin: auto;
@@ -30,7 +30,7 @@
 }
 
 @media screen and (min-width: 1280px){
-    .lead__image_Group-4{
+    .lead__image_Group-four{
         position: absolute;
         width: 95%;
         margin: auto;
