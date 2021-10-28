@@ -1,7 +1,7 @@
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
     .header{
-        width: 100%;
+        width: 99%;
         height: 42px;
         display: flex;
         flex-direction: row;
@@ -11,7 +11,7 @@
 }
 @media screen and (min-width: 768px){
     .header{
-        width: 100%;
+        width: 99%;
         height: 52px;
         display: flex;
         flex-direction: row;
