@@ -4,6 +4,7 @@
     .place__top{
         display: flex;
         flex-direction: column;
+        margin: 0 16px;
     }
 }
 @media screen and (min-width: 768px) {
