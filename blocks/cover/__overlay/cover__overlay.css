@@ -4,10 +4,11 @@
         width: 100%;
         min-height: calc(200px - 33px);
         padding-top: 33px;
+        background-color: rgba(42,44,47,.3);
     }
     
     .cover__overlay:hover{
-        background-image: url(../../../images/__overlay.png);
+        background-color: rgba(42,44,47,.8);
     }
 }
 
@@ -16,10 +17,11 @@
         width: 100%;
         min-height: calc(480px - 115px);
         padding-top: 115px;
+        background-color: rgba(42,44,47,.3);
     }
     
     .cover__overlay:hover{
-        background-image: url(../../../images/__overlay.png);
+        background-color: rgba(42,44,47,.8);
     }
 }
 @media screen and (min-width: 1024px) and (max-width: 1280px){
@@ -27,12 +29,11 @@
         width: 100%;
         min-height: calc(640px - 195px);
         padding-top: 195px;
-        position: relative;
-        z-index: 2;
+        background-color: rgba(42,44,47,.3);
     }
     
     .cover__overlay:hover{
-        background-image: url(../../../images/__overlay.png);
+        background-color: rgba(42,44,47,.8);
     }
 }
 
@@ -41,11 +42,10 @@
         width: 100%;
         min-height: calc(740px - 245px);
         padding-top: 245px;
-        position: relative;
-        z-index: 2;
+        background-color: rgba(42,44,47,.3);
     }
     
     .cover__overlay:hover{
-        background-image: url(../../../images/__overlay.png);
+        background-color: rgba(42,44,47,.8);
     }
 }
