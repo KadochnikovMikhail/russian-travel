@@ -9,10 +9,9 @@
         line-height: 18px;
         color: #FFFFFF;
         text-decoration: none;
-        margin-bottom: 32px;
     }
-    .footer__link:nth-of-type(5n){
-        margin-top: 0;
+    .footer__link:hover{
+        opacity: 0.8;
     }
 }
 
@@ -26,5 +25,8 @@
         color: #FFFFFF;
         margin-right: 18px;
         text-decoration: none;
+    }
+    .footer__link:hover{
+        opacity: 0.8;
     }
 }
