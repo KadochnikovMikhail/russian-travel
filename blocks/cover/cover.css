@@ -1,44 +1,57 @@
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
     .cover{
+        position: relative;
         width: 100%;
         min-height: 200px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
         background-position: center;
+        opacity: 0.3;
         background-size: cover;
+        z-index: 1;
     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
     .cover{
+        position: relative;
         width: 100%;
         min-height: 480px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
         background-position: center;
         background-size: cover;
+        opacity: 0.3;
+        z-index: 1;
     }
 }
 @media screen and (min-width: 1024px) and (max-width: 1280px){
     .cover{
+        position: relative;
         width: 99%;
         min-height: 640px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
         background-position: center;
         background-size: cover;
+        opacity: 0.3;
+        z-index: 1;
     }
 }
 
 @media screen and (min-width: 1280px){
     .cover{
+        position: relative;
         width: 1184px;
         min-height: 740px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
         background-position: center;
         background-size: cover;
+        opacity: 0.3;
+        z-index: 1;
+        
     }
 }
 
