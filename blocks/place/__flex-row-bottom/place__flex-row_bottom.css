@@ -1,12 +1,12 @@
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
-    .place__flex-row_bottom{
+    .place__flex-row-bottom{
         display: flex;
         flex-direction: column;
     }
 }
 @media screen and (min-width: 768px) {
-    .place__flex-row_bottom{
+    .place__flex-row-bottom{
         display: flex;
         flex-direction: row;
     }
