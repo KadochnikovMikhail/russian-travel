@@ -5,6 +5,7 @@
         min-height: 200px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
+        background-position: center;
         background-size: cover;
     }
 }
@@ -15,6 +16,7 @@
         min-height: 480px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
+        background-position: center;
         background-size: cover;
     }
 }
@@ -24,6 +26,7 @@
         min-height: 640px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
+        background-position: center;
         background-size: cover;
     }
 }
@@ -31,9 +34,10 @@
 @media screen and (min-width: 1280px){
     .cover{
         width: 1184px;
-        height: 740px;
+        min-height: 740px;
         margin: 0 auto 0;
         background-image: url(../../images/__background.jpg);
+        background-position: center;
         background-size: cover;
     }
 }
