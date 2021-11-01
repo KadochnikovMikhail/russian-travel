@@ -9,7 +9,18 @@
     }
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 768px) and (max-width: 1024px){
+    .footer__links{
+        display: flex;
+        margin: 0;
+        flex-direction: row;
+        padding-left: 0;
+        margin-left: 24px;
+        list-style-type: none;
+    }
+}
+
+@media screen and (min-width: 1024px)  {
     .footer__links{
         display: flex;
         margin: 0;
